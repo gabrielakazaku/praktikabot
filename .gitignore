@@ -59,3 +59,5 @@ proekt/
 .vscode-server/
 .vscode-server/
 **/node
+.vscode-server/
+**/*.node
