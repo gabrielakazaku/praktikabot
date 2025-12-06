@@ -57,3 +57,5 @@ Thumbs.db
 *.log
 proekt/
 .vscode-server/
+.vscode-server/
+**/node
