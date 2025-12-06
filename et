@@ -1,0 +1,10 @@
+[33m27247bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33ma700376[m HEAD@{1}: commit: COMPLETE PROJECT: PostgreSQL SQLAlchemy
+[33m871439d[m HEAD@{2}: commit: FORCE UPDATE ALL FILES
+[33m5baaf73[m HEAD@{3}: commit: ADD ALL PROJECT FILES
+[33m8c6b0fb[m HEAD@{4}: Branch: renamed refs/heads/master to refs/heads/main
+[33m8c6b0fb[m HEAD@{6}: commit: Add proekt folder
+[33m6d54aea[m HEAD@{7}: commit: Update PostgreSQL project
+[33mb79e8d8[m HEAD@{8}: commit: PostgreSQL project - final clean version
+[33m820a393[m HEAD@{9}: filter-branch: rewrite
+[33m83a4ad9[m HEAD@{10}: commit: Remove large .vscode-server files from Git history
