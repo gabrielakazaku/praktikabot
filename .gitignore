@@ -1,15 +1,21 @@
-# Системные файлы
-.bash_history
-.ssh/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
 
-# Временные файлы
-*.tmp
-*.log
+# Environment
+.env
+.env.local
+.env*.local
 
-# Скрипты (если не хотите их коммитить)
-*.sh
-
-# IDE файлы
+# VS Code
 .vscode/
-.idea/
-*.swp
+
+# OS
+.DS_Store
